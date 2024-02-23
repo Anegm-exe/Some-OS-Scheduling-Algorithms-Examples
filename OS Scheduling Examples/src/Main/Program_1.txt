@@ -1,0 +1,10 @@
+assign a input
+assign b input
+assign z add a b 
+print z
+assign x multiply a b 
+print x
+assign y divide a b 
+print y
+assign p subtract a b 
+print p
