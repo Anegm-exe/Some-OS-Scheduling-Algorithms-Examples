@@ -11,8 +11,8 @@ It Shows Diffrences Between SJF, Round-Robin And Normal-Excution And How They Wo
 It Uses One Of The Pre-Defined Tags That Are Used Before.
 
 ## Notes / Recommendations
-1. the Game Was Part Of A Course During My Second Year AT The GIU (German International University) In Egypt Learning About Informatics And Computer Science.<br>
-2. Program Was Created And Tested To Work On Eclipse IDE But Using Other IDEs Shouldn't Be An Issue As Long As The Files Are Implemented Successfully (Including The 3 Program Files).<br>
+1. the Project Was Part Of A Course During My Second Year AT The GIU (German International University) In Egypt Learning About Informatics And Computer Science.<br>
+2. Program Was Created And Tested To Work On Eclipse IDE But Using Other IDEs Shouldn't Be An Issue As Long As The Files Are Implemented Successfully (Include The 3 Program Files).<br>
 3. Feel Free You Use, Edit, Upgrade Or Share This As Long As you Credit Me.<br>
 4. To Use The Algs Follow The Steps Printed In The Output Terminal.<br>
 5. Files Types Can Be Used To Create Diffrent Types of Files Like ".txt", etc..<br>
